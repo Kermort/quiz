@@ -23,7 +23,7 @@ function startGame() {
 }
 
 document.getElementById("button-start").onclick = function() {
-    var requestQuestionFile = "../files/questions.json";
+    var requestQuestionFile = "https://github.com/Kermort/quiz/blob/master/files/questions.json";
     // var requestURL = "https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json";
     var request = new XMLHttpRequest();
     var questionsList;
