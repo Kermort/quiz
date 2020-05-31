@@ -1,0 +1,114 @@
+{
+    "questions" :[
+        {
+            "questionNumber": 1,
+            "questionText": "тест вопроса 1",
+            "answers": [
+                {
+                    "variantNumber": 1,
+                    "variantText": "текст варианта 1",
+                    "isCorrect": true
+                },
+                {
+                    "variantNumber": 2,
+                    "variantText": "текст варианта 2",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 3,
+                    "variantText": "текст варианта 3",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 4,
+                    "variantText": "текст варианта 4",
+                    "isCorrect": false
+                }
+                
+            ]
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "тест вопроса 2",
+            "answers": [
+                {
+                    "variantNumber": 1,
+                    "variantText": "текст варианта 1",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 2,
+                    "variantText": "текст варианта 2",
+                    "isCorrect": true
+                },
+                {
+                    "variantNumber": 3,
+                    "variantText": "текст варианта 3",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 4,
+                    "variantText": "текст варианта 4",
+                    "isCorrect": false
+                }
+                
+            ]
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "тест вопроса 3",
+            "answers": [
+                {
+                    "variantNumber": 1,
+                    "variantText": "текст варианта 1",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 2,
+                    "variantText": "текст варианта 2",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 3,
+                    "variantText": "текст варианта 3",
+                    "isCorrect": true
+                },
+                {
+                    "variantNumber": 4,
+                    "variantText": "текст варианта 4",
+                    "isCorrect": false
+                }
+                
+            ]
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "тест вопроса",
+            "answers": [
+                {
+                    "variantNumber": 1,
+                    "variantText": "текст варианта 1",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 2,
+                    "variantText": "текст варианта 2",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 3,
+                    "variantText": "текст варианта 3",
+                    "isCorrect": false
+                },
+                {
+                    "variantNumber": 4,
+                    "variantText": "текст варианта 4",
+                    "isCorrect": true
+                }
+                
+            ]
+        }
+    ]
+
+    
+}
